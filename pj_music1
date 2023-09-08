@@ -1,0 +1,25 @@
+html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Minha Página de Artista Favorito</title>
+</head>
+<body>
+  <h1>THE WEEKND</h1>
+  <h2>Título de Relevância: POP </h2>
+  
+  <h3>Últimos Álbuns:</h3>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=JH398xAYpZA&list=PLPRWtKgY2MOu8dPE7sMxQZ07PS1mLqid9">After Hours(2020)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=OPkZihHOfNI&list=PLS5_MK8e_MzSNmCQ3_AqbQL1JOM4Yy-_v">Starboy(2016)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=YbVJXoz_nRI&list=PL2YYYbxwOUaKedFVO8nv_HY_0XZCH00S4">Beauty Behind the Madness(2015)</a></li>
+  </ul>
+  
+  <h3>Minha Música Favorita:</h3>
+  <p>Blinding Ligts</p>
+  <img src="my music/the img.jfif" alt="photo the weeknd">
+  <audio controls>
+    <source srcset="my music/y2mate.com - The Weeknd  Blinding Lights Official Video.mp3"type="audio/mpeg">
+  </audio>
+</body>
+</html>
